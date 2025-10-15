@@ -125,18 +125,6 @@ Mobile:
   
 </p>
 
-Screen recording (mp4):
-
-[Watch demo](client/public/devtinder-demo.mp4)
-
-## 🤝 Contributing
-
-This is a portfolio project, but feedback and suggestions are always welcome! Feel free to open an issue or reach out.
-
-## 📧 Contact
-
-**Parshuram Bagade**
-
 - GitHub: [@parshurambagade](https://github.com/parshurambagade)
 - Email: parshuram.dev@outlook.com
 
