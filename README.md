@@ -124,10 +124,3 @@ Mobile:
    <img src="client/public/devtinder-mobile-2.png" alt="Mobile 2" height="520" />
   
 </p>
-
-- GitHub: [@parshurambagade](https://github.com/parshurambagade)
-- Email: parshuram.dev@outlook.com
-
----
-
-_Built with ❤️ for the developer community_
