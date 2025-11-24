@@ -1,6 +1,6 @@
 # DevSaathi - Connect with Developers 🚀
 
-**Live Demo:** [https://devsaathi.tech](https://devsaathi.tech)
+**Live Demo:** [https://devsaathi.tech](https://dev-saathi.vercel.app/)
 
 <p align="center">
    <img src="client/public/devtinder-demo.gif" alt="DevSaathi Demo" width="900" />
